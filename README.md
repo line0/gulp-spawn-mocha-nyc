@@ -1,9 +1,9 @@
 # gulp-spawn-mocha
 
-[![Dependency Status](https://img.shields.io/david/raccoon-lee/gulp-spawn-mocha.svg)](https://david-dm.org/knpwrs/gulp-spawn-mocha)
-[![devDependency Status](https://img.shields.io/david/dev/raccoon-lee/gulp-spawn-mocha.svg)](https://david-dm.org/knpwrs/gulp-spawn-mocha#info=devDependencies)
-[![Build Status](https://img.shields.io/travis/raccoon-lee/gulp-spawn-mocha.svg)](https://travis-ci.org/knpwrs/gulp-spawn-mocha)
-[![Code Coverage](https://img.shields.io/coveralls/raccoon-lee/gulp-spawn-mocha.svg)](https://coveralls.io/github/knpwrs/gulp-spawn-mocha)
+[![Dependency Status](https://img.shields.io/david/raccoon-lee/gulp-spawn-mocha.svg)](https://david-dm.org/raccoon-lee/gulp-spawn-mocha)
+[![devDependency Status](https://img.shields.io/david/dev/raccoon-lee/gulp-spawn-mocha.svg)](https://david-dm.org/raccoon-lee/gulp-spawn-mocha#info=devDependencies)
+[![Build Status](https://img.shields.io/travis/raccoon-lee/gulp-spawn-mocha.svg)](https://travis-ci.org/raccoon-lee/gulp-spawn-mocha)
+[![Code Coverage](https://img.shields.io/coveralls/raccoon-lee/gulp-spawn-mocha.svg)](https://coveralls.io/github/raccoon-lee/gulp-spawn-mocha)
 
 <!-- [![Npm Version](https://img.shields.io/npm/v/gulp-spawn-mocha.svg)](https://www.npmjs.com/package/gulp-spawn-mocha) -->
 
