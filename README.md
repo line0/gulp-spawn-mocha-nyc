@@ -1,9 +1,9 @@
 # gulp-spawn-mocha
 
-[![Dependency Status](https://img.shields.io/david/raccoon-lee/gulp-spawn-mocha.svg)](https://david-dm.org/raccoon-lee/gulp-spawn-mocha)
-[![devDependency Status](https://img.shields.io/david/dev/raccoon-lee/gulp-spawn-mocha.svg)](https://david-dm.org/raccoon-lee/gulp-spawn-mocha#info=devDependencies)
-[![Build Status](https://img.shields.io/travis/raccoon-lee/gulp-spawn-mocha.svg)](https://travis-ci.org/raccoon-lee/gulp-spawn-mocha)
-[![Code Coverage](https://img.shields.io/coveralls/raccoon-lee/gulp-spawn-mocha.svg)](https://coveralls.io/github/raccoon-lee/gulp-spawn-mocha)
+[![Dependency Status](https://img.shields.io/david/raccoon-lee/gulp-spawn-mocha-nyc.svg)](https://david-dm.org/raccoon-lee/gulp-spawn-mocha-nyc)
+[![devDependency Status](https://img.shields.io/david/dev/raccoon-lee/gulp-spawn-mocha-nyc.svg)](https://david-dm.org/raccoon-lee/gulp-spawn-mocha-nyc#info=devDependencies)
+[![Build Status](https://img.shields.io/travis/raccoon-lee/gulp-spawn-mocha-nyc.svg)](https://travis-ci.org/raccoon-lee/gulp-spawn-mocha-nyc)
+[![Code Coverage](https://img.shields.io/coveralls/raccoon-lee/gulp-spawn-mocha-nyc.svg)](https://coveralls.io/github/raccoon-lee/gulp-spawn-mocha-nyc)
 
 <!-- [![Npm Version](https://img.shields.io/npm/v/gulp-spawn-mocha.svg)](https://www.npmjs.com/package/gulp-spawn-mocha) -->
 
