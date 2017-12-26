@@ -1,15 +1,12 @@
-# gulp-spawn-mocha
+# gulp-spawn-mocha-nyc
+
+This project is fork from [knpwrs/gulp-spawn-mocha](https://github.com/knpwrs/gulp-spawn-mocha), and change coverage tool to istanbul.js - nyc 
 
 [![Dependency Status](https://img.shields.io/david/raccoon-lee/gulp-spawn-mocha-nyc.svg)](https://david-dm.org/raccoon-lee/gulp-spawn-mocha-nyc)
 [![devDependency Status](https://img.shields.io/david/dev/raccoon-lee/gulp-spawn-mocha-nyc.svg)](https://david-dm.org/raccoon-lee/gulp-spawn-mocha-nyc#info=devDependencies)
 [![Build Status](https://img.shields.io/travis/raccoon-lee/gulp-spawn-mocha-nyc.svg)](https://travis-ci.org/raccoon-lee/gulp-spawn-mocha-nyc)
 [![Code Coverage](https://img.shields.io/coveralls/raccoon-lee/gulp-spawn-mocha-nyc.svg)](https://coveralls.io/github/raccoon-lee/gulp-spawn-mocha-nyc)
-
-<!-- [![Npm Version](https://img.shields.io/npm/v/gulp-spawn-mocha.svg)](https://www.npmjs.com/package/gulp-spawn-mocha) -->
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-<!-- [![Badges](https://img.shields.io/badge/badges-7-orange.svg)](http://shields.io/) -->
 
 This is a plugin for [gulp] which runs [Mocha] tests in a separate process from
 the `gulp` process. Each time tests are run a new child process is created
