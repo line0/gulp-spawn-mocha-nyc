@@ -7,7 +7,7 @@ const mocha = require('../lib')
 const through = require('through')
 const proc = require('child_process')
 const join = require('path').join
-const PluginError = require('gulp-util').PluginError
+const PluginError = require('plugin-error')
 const fs = require('fs')
 
 describe('gulp-spawn-mocha tests', () => {
