@@ -199,11 +199,9 @@ describe('gulp-spawn-mocha tests', () => {
       stream.write({ path: 'foo' })
       stream.end()
       proc.fork.should.be.calledWith(nycBin, [
-        '--silent',
-        '--reporter',
-        'lcov',
-        '--reporter',
-        'text-summary',
+        '--silent=true',
+        '--reporter=lcov',
+        '--reporter=text-summary',
         mochaBin,
         'foo'
       ])
