@@ -1,6 +1,6 @@
 {
   "name": "gulp-spawn-mocha-nyc",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Runs Mocha as a child process, and use nyc as coverage tool.",
   "main": "lib/index.js",
   "scripts": {
