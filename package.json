@@ -7,7 +7,14 @@
     "test": "gulp test"
   },
   "repository": "raccoon-lee/gulp-spawn-mocha",
-  "keywords": ["gulpplugin", "mocha", "spawn", "child", "process", "nyc"],
+  "keywords": [
+    "gulpplugin",
+    "mocha",
+    "spawn",
+    "child",
+    "process",
+    "nyc"
+  ],
   "author": {
     "name": "Kenneth Powers",
     "email": "ken@kenpowers.net"
@@ -35,8 +42,7 @@
   "devDependencies": {
     "chai": "~4.1.2",
     "coveralls": "^3.0.0",
-    "eslint-config-hahow":
-      "git+https://github.com/hahow/eslint-config-hahow.git#v4.0.0",
+    "eslint-config-hahow": "git+https://github.com/hahow/eslint-config-hahow.git#v4.0.0",
     "gulp": "^3.9.1",
     "mocha": "^4.0.1",
     "nyc": "^11.4.1",
