@@ -23,6 +23,6 @@ gulp.task('test', () =>
   )
 )
 
-gulp.task('default', ['test'], () => {
+gulp.task('default', gulp.series('test', () => {
   gulp.watch('{lib,test}/*', ['test'])
-})
+}))
